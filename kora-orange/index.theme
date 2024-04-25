@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Kora Orange (Testing)
-Comment=Kora Orange icon theme for GNU/Linux (Testing)
+Name=Kora Orange
+Comment=Kora Orange icon theme for GNU/Linux
 
 Inherits=breeze,Adwaita,hicolor
 
