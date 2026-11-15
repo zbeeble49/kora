@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Kora Chameleon (Testing)
-Comment=Kora Chameleon icon theme for GNU/Linux (Testing)
+Name=Kora Chameleon
+Comment=Kora Chameleon icon theme for GNU/Linux
 
 Inherits=breeze,Adwaita,hicolor
 
